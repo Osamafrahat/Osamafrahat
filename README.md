@@ -1,4 +1,4 @@
-- #👋 Hi, I’m @Osamafrahat
+- 👋 Hi, I’m @Osamafrahat
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
